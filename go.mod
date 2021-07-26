@@ -25,10 +25,9 @@ require (
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/gin-contrib/gzip v0.0.1
 	github.com/gin-contrib/sessions v0.0.3
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.7.0
 	github.com/go-co-op/gocron v1.5.0
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/go-playground/validator/v10 v10.3.0 // indirect
 	github.com/gobuffalo/envy v1.7.0 // indirect
 	github.com/gogo/protobuf v1.3.0 // indirect
 	github.com/golang/protobuf v1.4.2 // indirect
@@ -67,7 +66,7 @@ require (
 	github.com/swaggo/swag v1.5.1
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
-	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/net v0.0.0-20191021144547-ec77196f6094 // indirect
 	golang.org/x/sys v0.0.0-20200523222454-059865788121 // indirect
 	google.golang.org/appengine v1.6.2 // indirect
